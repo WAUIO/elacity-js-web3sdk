@@ -1,0 +1,1 @@
+export const PACKAGENAME = '@elacity-js/web3sdk';
